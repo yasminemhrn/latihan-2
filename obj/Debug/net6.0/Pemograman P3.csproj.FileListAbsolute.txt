@@ -1,0 +1,5 @@
+D:\Kuliah 2\Pemrograman\Pemograman P3\Pemograman P3\obj\Debug\net6.0\Pemograman P3.csproj.AssemblyReference.cache
+D:\Kuliah 2\Pemrograman\Pemograman P3\Pemograman P3\obj\Debug\net6.0\Pemograman P3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah 2\Pemrograman\Pemograman P3\Pemograman P3\obj\Debug\net6.0\Pemograman P3.AssemblyInfoInputs.cache
+D:\Kuliah 2\Pemrograman\Pemograman P3\Pemograman P3\obj\Debug\net6.0\Pemograman P3.AssemblyInfo.cs
+D:\Kuliah 2\Pemrograman\Pemograman P3\Pemograman P3\obj\Debug\net6.0\Pemograman P3.csproj.CoreCompileInputs.cache
